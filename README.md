@@ -35,7 +35,7 @@ $${\color{white}Gliding Down The Aisles In My{}}$$
 </p> 
 
 <p align="center">
-$${\color{light blue}Shopping Cart{}}$$
+$${\color{lightblue}Shopping Cart{}}$$
 </p>
 
 <p align="center">
