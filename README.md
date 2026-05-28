@@ -31,11 +31,11 @@
 </p> 
 
 <p align="center">
-$${\color{beige}The Dominion{}}$$
+$${\color{white}Gliding Down The Aisles In My{}}$$
 </p> 
 
 <p align="center">
-$${\color{red}Overpowers All{}}$$
+$${\color{light blue}Shopping Cart{}}$$
 </p>
 
 <p align="center">
