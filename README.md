@@ -60,7 +60,7 @@ $${\color{lightblue}Shopping Cart{}}$$
   </a>
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-digitaIized&label=Ashes&color=aba19a&style=plastic&abbreviated=true&base=10400">
+  <img src="https://komarev.com/ghpvc/?username=your-github-digitaIized&label=Ashes&color=aba19a&style=plastic&abbreviated=true&base=11200">
 </p>
 
   <p align="center">
