@@ -49,6 +49,7 @@ $${\color{lightblue}Shopping Cart{}}$$
   <a href= "https://azresash.atabook.org"> 𝙰𝚃𝙰 </a> ×
   <a href= "https://velmyss.straw.page"> 𝚂𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎 </a> ×
   <a href= "https://en.pronouns.page/@Fallingsouls"> 𝙿𝚛𝚗𝚜.𝙿𝚊𝚐𝚎 </a> ×
+  <a href= "https://pronouns.cc/@velmyss"> 𝙿𝚛𝚗𝚜.𝚌𝚌 </a> ×
   <a href= "https://www.tumblr.com/coilfromphighting"> 𝚃𝚞𝚖𝚋𝚕𝚛 </a> ×
   <a href= "https://guns.lol/.velmyss"> 𝙶𝚞𝚗𝚜.𝚕𝚘𝚕 </a> ×
   <a href= "https://rentry.co/udnzzfqe"> 𝚁𝚎𝚗𝚝𝚛𝚢 </a> 
@@ -60,7 +61,7 @@ $${\color{lightblue}Shopping Cart{}}$$
   </a>
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-digitaIized&label=Ashes&color=aba19a&style=plastic&abbreviated=true&base=11200">
+  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=Ashes&color=aba19a&style=plastic&abbreviated=true&base=11600">
 </p>
 
   <p align="center">
