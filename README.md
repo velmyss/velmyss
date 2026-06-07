@@ -31,11 +31,11 @@
 </p> 
 
 <p align="center">
-$${\color{white}Gliding Down The Aisles In My{}}$$
+$${\color{white}We'll Stay Close If We Both{}}$$
 </p> 
 
 <p align="center">
-$${\color{lightblue}Shopping Cart{}}$$
+$${\color{lightblue}Stare At Th Stars{}}$$
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ $${\color{lightblue}Shopping Cart{}}$$
   </a>
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=Ashes&color=aba19a&style=plastic&abbreviated=true&base=11600">
+  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=stars&color=607390&style=plastic&abbreviated=true&base=11600">
 </p>
 
   <p align="center">
