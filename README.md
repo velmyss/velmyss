@@ -19,7 +19,7 @@
 --------------------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ˗--------------------‎
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=stars&color=607390&style=plastic&abbreviated=true&base=11600">
+  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=stars&color=cb3e78&style=plastic&abbreviated=true&base=11600">
 </p>
   
 </p>
