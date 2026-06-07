@@ -1,48 +1,49 @@
-  <p align="center">
-  <img width="800" height="120" src="https://64.media.tumblr.com/3d9072a1ac78418018b8e506d50e710c/e4eccd3b03350099-50/s2048x3072/b663222726002da85c925ce20d4d0eaa333f3a66.pnj">
+<p align="center">
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 </p>
 
   <p align="center">
-  <img width="100" height="120" src="https://64.media.tumblr.com/d3d6fa07393f6017d7c38320f30364fc/467cdec442d12682-d0/s250x400/1822b73cc324a6e1eb67b2b92892ba9befce769f.pnj">
+  <img width="500" height="700" src="https://64.media.tumblr.com/90a9b669c5afe6facc9914aa57b2e0e1/8188d2629685acc8-0e/s2048x3072/f5f83736e35f291ec677f99bde9535f209762bfb.pnj">
 </p>
 
-<p align="center">
-​꒰ ​ʟᴇʀᴏꜰᴇʏ​ ノ ᴠᴇʟᴍ​ ノ ɴᴀʀɪ ꒱​​
 </p>
-
 <p align="center">
-​ᴄ . ʜ ɪꜱ ᴇɴᴄᴏᴜʀᴀɢᴇᴅ ᴇᴠᴇɴ ᴡ/ ꜰʀɪᴇɴᴅꜱ ᴜɴʟᴇꜱꜱ ꜰʀɪᴇɴᴅꜱ ᴅᴏɴ'ᴛ ᴡᴀɴᴛ ɪᴛ​
-</p> 
-
-<p align="center">
-​ᴍᴜʟᴛɪꜰᴀɴᴅᴏᴍᴇᴅ . ᴜꜱᴜᴀʟʟʏ ᴏᴄꜱ ᴏʀ ꜱᴍᴛʜ​
-</p> 
-
-<p align="center">
-​ᴡʜɪꜱᴘᴇʀꜱ ᴀʀᴇ ᴀʟᴡᴀʏꜱ ᴏᴘᴇɴ ꜱᴏ ɪꜱ ᴀᴛᴀ ᴀɴᴅ ꜱᴘ!​​​
-</p> 
-
-<p align="center">
-​ᴘʟᴇᴀꜱᴇ ᴀꜱᴋ ꜰᴏʀ ꜱᴏᴄɪᴀʟꜱ (ᴇxᴍᴘ. ᴅɪꜱᴄᴏʀᴅ)​
-</p> 
-
-<p align="center">
-​ɪ'ᴍ ꜱʟɪɢʜᴛʟʏ ɪɴᴀᴄᴛɪᴄᴇ​
-</p> 
-
-<p align="center">
-$${\color{white}We'll Stay Close If We Both{}}$$
-</p> 
-
-<p align="center">
-$${\color{lightblue}Stare At Th Stars{}}$$
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gia4wndtbhppdifsh3knyzus7e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=361a51&interchange=false&profanity=false&bar_color=8b349d&bar_color_cover=true&mode=light">
+  </a>
 </p>
-
 <p align="center">
-  <b> ​​ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ᴘᴇꜱᴛꜱ :3 <br>
-  <a href= "https://github.com/Sharooh"> ʀᴀʏʀᴀʏ​ <3​ </a>
-  <a href= "https://github.com/ringmasterr"> ​​xɪɴɴʏ :ᴅ ! </a>
-  <a href= "https://github.com/princezammery"> ​​ꜱᴏʀᴀᴀ !​ </a>
+ɪᴍᴀɢᴇ ᴄʀ : <a href="https://www.tumblr.com/mellohiizz"> @​ᴍᴇʟʟᴏʜɪɪᴢᴢ​ ᴏɴ ᴛᴍʙʟʀ </a>
+</p>
+<p align="center">
+--------------------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ˗--------------------‎
+</p>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=stars&color=607390&style=plastic&abbreviated=true&base=11600">
+</p>
+  
+</p>
+<p align="center">
+​ʟᴇʀᴏꜰᴇʏ . ᴠᴇʟᴍ . ɴᴀʀɪ . Qᴜᴀᴋɪᴛᴜꜱ
+</p>
+<p align="center">
+ᴄ . ʜ ɪꜱ ᴀʟᴡᴀʏꜱ ᴀʟʟᴏᴡᴇᴅ ᴜɴʟᴇꜱꜱ ᴡ/ ꜰʀᴇɴꜱ 
+</p>
+<p align="center">
+ᴀꜱᴋ ꜰᴏʀ ɪɴꜱᴘᴏ!! ᴅᴏ ɴᴏᴛ ᴄᴏᴘʏ
+</p>
+<p align="center">
+ʜᴇʟʟᴀ ᴛᴀʟᴋᴀᴛɪᴠᴇ ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴡʜɪꜱᴘᴇʀ / ʏᴀᴘ
+</p>
+<p align="center">
+--------------------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ˗--------------------
+</p>
+<p align="center">
+  <b> ʜɪɪɪ ʀᴀʏʏʏꜱꜱ ♡ ; </b><br>
+ ⌒ <a href="https://github.com/Sharooh">ʀᴀʏʀᴀʏ ᴍʏ #2 ᴄʜᴜᴅ ꜰʀɪᴇɴᴅ </a> ₊˚  ᛝ 
+</p>
+   <p align="center">
+--------------------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ˗--------------------
 
 <p align="center">
   <b> ʟɪɴᴋꜱ <br>
@@ -54,16 +55,10 @@ $${\color{lightblue}Stare At Th Stars{}}$$
   <a href= "https://guns.lol/.velmyss"> 𝙶𝚞𝚗𝚜.𝚕𝚘𝚕 </a> ×
   <a href= "https://rentry.co/udnzzfqe"> 𝚁𝚎𝚗𝚝𝚛𝚢 </a> 
   <br>
+<p align="center">
+𓆩  (¬`‸´¬)  𓆪
+</p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gia4wndtbhppdifsh3knyzus7e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=361a51&interchange=false&profanity=false&bar_color=8b349d&bar_color_cover=true&mode=light">
-  </a>
-</p>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=stars&color=607390&style=plastic&abbreviated=true&base=11600">
-</p>
-
-  <p align="center">
-  <img width="800" height="120" src="https://64.media.tumblr.com/3d9072a1ac78418018b8e506d50e710c/e4eccd3b03350099-50/s2048x3072/b663222726002da85c925ce20d4d0eaa333f3a66.pnj">
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 </p>
