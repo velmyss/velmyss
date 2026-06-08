@@ -48,10 +48,9 @@
 <p align="center">
   <b> ʟɪɴᴋꜱ <br>
   <a href= "https://azresash.atabook.org"> 𝙰𝚃𝙰 </a> ×
-  <a href= "https://velmyss.straw.page"> 𝚂𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎 </a> ×
+  <a href= "https://quakitused.straw.page"> 𝚂𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎 </a> ×
   <a href= "https://en.pronouns.page/@Fallingsouls"> 𝙿𝚛𝚗𝚜.𝙿𝚊𝚐𝚎 </a> ×
   <a href= "https://pronouns.cc/@velmyss"> 𝙿𝚛𝚗𝚜.𝚌𝚌 </a> ×
-  <a href= "https://www.tumblr.com/coilfromphighting"> 𝚃𝚞𝚖𝚋𝚕𝚛 </a> ×
   <a href= "https://guns.lol/.velmyss"> 𝙶𝚞𝚗𝚜.𝚕𝚘𝚕 </a> ×
   <a href= "https://rentry.co/udnzzfqe"> 𝚁𝚎𝚗𝚝𝚛𝚢 </a> 
   <br>
