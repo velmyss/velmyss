@@ -51,5 +51,5 @@ $${\color{#a87120}links}$$
   <a href= "https://en.pronouns.page/@Fallingsouls"> prnspge </a> ×
   <a href= "https://pronouns.cc/@velmyss"> prnscc </a> ×
   <a href= "https://guns.lol/.velmyss"> gunslol </a> ×
-  <a href= "https://rentry.co/udnzzfqe"> rentry </a> 
+  <a href= "https://rentry.co/get-tived"> rentry </a> 
   <br>
