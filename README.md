@@ -59,7 +59,7 @@ $${\color{#8d3128}----------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ----------˗‎}$$
 </p>
 <p align="center">
   <a href= "https://azresash.atabook.org"> ata </a> ×
-  <a href= "https://quakitused.straw.page"> strwpg </a> ×
+  <a href= "https://gopgg.straw.page"> strwpg </a> ×
   <a href= "https://en.pronouns.page/@Fallingsouls"> prnspge </a> ×
   <a href= "https://pronouns.cc/@velmyss"> prnscc </a> ×
   <a href= "https://guns.lol/.velmyss"> gunslol </a> ×
