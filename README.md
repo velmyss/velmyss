@@ -9,52 +9,52 @@
 </p>
 
 <p align="center">
-$${\color{#8d3128}----------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ----------˗‎}$$
+$${\color{#4c2967}----------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ----------˗‎}$$
 ㅤ</br>
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=sprites&color=6a342f&style=plastic&abbreviated=true&base=11600">
+  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=Spiders&color=3d1a57&style=plastic&abbreviated=true&base=11600">
 </p>
 
  </p>
 <p align="center">
-$${\color{#71261e}I}$$ $${\color{#8d3128}mean}$$ $${\color{#803d36}what}$$ $${\color{#854741}can}$$
-  $${\color{#84534e}I}$$ $${\color{#71261e}say}$$ ㅤ $${\color{#8d3128}Three}$$ $${\color{#803d36}babies}$$ ㅤ $${\color{#71261e}in}$$ $${\color{#8d3128}the}$$ $${\color{#803d36}backseat◝}$$ ㅤ</br>
-ㅤ $${\color{#71261e}◟singin'}$$ㅤ $${\color{#8d3128}to}$$ $${\color{#803d36}you}$$
+$${\color{#3d1a57}I}$$ $${\color{#4c2967}mean}$$ $${\color{#58376f}what}$$ $${\color{#644778}can}$$
+  $${\color{#745c85}I}$$ $${\color{#3d1a57}say}$$ ㅤ $${\color{#4c2967}Three}$$ $${\color{#58376f}babies}$$ ㅤ $${\color{#3d1a57}in}$$ $${\color{#4c2967}the}$$ $${\color{#58376f}backseat◝}$$ ㅤ</br>
+ㅤ $${\color{#3d1a57}◟singin'}$$ㅤ $${\color{#4c2967}to}$$ $${\color{#58376f}you}$$
 ㅤ</br>
 </p>
 
 <p align="center">
-$${\color{#71261e} ༘}$$ $${\color{#8d3128}₊}$$ $${\color{#803d36}✩}$$ $${\color{#854741}‧}$$ ㅤ $${\color{#ec9f2b}‧}$$ $${\color{#84534e}༯}$$ $${\color{#803d36}｡}$$ $${\color{#8d3128}˖}$$ ㅤ $${\color{#71261e}✩}$$ $${\color{#8d3128}‧}$$ $${\color{#803d36}‧}$$ $${\color{#854741}₊}$$ $${\color{#84534e} ༘}$$ ㅤ
+$${\color{#3d1a57} ༘}$$ $${\color{#4c2967}₊}$$ $${\color{#58376f}✩}$$ $${\color{#644778}‧}$$ ㅤ $${\color{#847092}‧}$$ $${\color{#745c85}༯}$$ $${\color{#58376f}｡}$$ $${\color{#644778}˖}$$ ㅤ $${\color{#3d1a57}✩}$$ $${\color{#4c2967}‧}$$ $${\color{#58376f}‧}$$ $${\color{#644778}₊}$$ $${\color{#745c85} ༘}$$ ㅤ
 </p>
 
  </p>
 <p align="center">
-  $${\color{#71261e}Hey}$$ $${\color{#8d3128}DJ,}$$ $${\color{#803d36}won't}$$ $${\color{#854741}you}$$
-  $${\color{#84534e}play}$$ $${\color{#71261e}that}$$ $${\color{#8d3128}song}$$ $${\color{#803d36}for◝}$$ ㅤ</br>
-ㅤ $${\color{#71261e}◟me}$$ ㅤ $${\color{#8d3128}and}$$ $${\color{#803d36}turn}$$ ㅤ $${\color{#71261e}it}$$ $${\color{#8d3128}up}$$ $${\color{#803d36}on}$$ $${\color{#854741}your}$$ $${\color{#84534e}radio}$$  
+  $${\color{#3d1a57}Hey}$$ $${\color{#4c2967}DJ,}$$ $${\color{#58376f}won't}$$ $${\color{#644778}you}$$
+  $${\color{#745c85}play}$$ $${\color{#3d1a57}that}$$ $${\color{#4c2967}song}$$ $${\color{#58376f}for◝}$$ ㅤ</br>
+ㅤ $${\color{#3d1a57}◟me}$$ ㅤ $${\color{#4c2967}and}$$ $${\color{#58376f}turn}$$ ㅤ $${\color{#3d1a57}it}$$ $${\color{#4c2967}up}$$ $${\color{#58376f}on}$$ $${\color{#644778}your}$$ $${\color{#745c85}radio}$$  
 ㅤ</br>
 </p>
 
 <p align="center">
-$${\color{#71261e} ༘}$$ $${\color{#8d3128}₊}$$ $${\color{#803d36}✩}$$ $${\color{#854741}‧}$$ ㅤ $${\color{#84534e}‧}$$ $${\color{#854741}༯}$$ $${\color{#803d36}｡}$$ $${\color{#a87120}˖}$$ ㅤ $${\color{#71261e}✩}$$ $${\color{#8d3128}‧}$$ $${\color{#803d36}‧}$$ $${\color{#854741}₊}$$ $${\color{#84534e} ༘}$$ ㅤ
+$${\color{#3d1a57} ༘}$$ $${\color{#4c2967}₊}$$ $${\color{#58376f}✩}$$ $${\color{#644778}‧}$$ ㅤ $${\color{#745c85}‧}$$ $${\color{#644778}༯}$$ $${\color{#58376f}｡}$$ $${\color{#4c2967}˖}$$ ㅤ $${\color{#3d1a57}✩}$$ $${\color{#4c2967}‧}$$ $${\color{#58376f}‧}$$ $${\color{#644778}₊}$$ $${\color{#745c85} ༘}$$ ㅤ
 </p>
 
  </p>
 <p align="center">
-  $${\color{#71261e}I}$$ $${\color{#8d3128}got}$$ $${\color{#803d36}200}$$ $${\color{#854741}seconds}$$
-  $${\color{#84534e}and}$$ $${\color{#71261e}I'm}$$ $${\color{#8d3128}ready}$$ $${\color{#803d36}to go!◝}$$ ㅤ</br>  
+  $${\color{#3d1a57}I}$$ $${\color{#4c2967}got}$$ $${\color{#58376f}200}$$ $${\color{#644778}seconds}$$
+  $${\color{#745c85}and}$$ $${\color{#3d1a57}I'm}$$ $${\color{#4c2967}ready}$$ $${\color{#58376f}to go!◝}$$ ㅤ</br>  
 ㅤ</br>
 </p>
 
 <p align="center">
-$${\color{#8d3128}----------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ----------˗‎}$$
+$${\color{#4c2967}----------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ----------˗‎}$$
 ㅤ</br>
 </p>
 
 <p align="center">
-  $${\color{#71261e}L}$$ $${\color{#8d3128}i}$$ $${\color{#803d36}n}$$ $${\color{#854741}k}$$
-  $${\color{#84534e}s}$$ ㅤ</br>  
+  $${\color{#3d1a57}L}$$ $${\color{#4c2967}i}$$ $${\color{#58376f}n}$$ $${\color{#644778}k}$$
+  $${\color{#745c85}s}$$ ㅤ</br>  
 ㅤ</br>
 </p>
 <p align="center">
