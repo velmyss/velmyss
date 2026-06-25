@@ -19,7 +19,7 @@ $${\color{#4c2967}----------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ----------˗‎}$$
  </p>
 <p align="center">
 $${\color{#3d1a57}I'm}$$ $${\color{#4c2967}So}$$ $${\color{#58376f}Embarrassed}$$ ㅤ $${\color{#644778}But}$$
-  $${\color{#I}I}$$ $${\color{#Gotta}say}$$ $${\color{#4c2967}Tell}$$ $${\color{#58376f}The}$$ $${\color{#3d1a57}Truth}$$
+  $${\color{#847092}I}$$ $${\color{#745c85}Gotta}$$ $${\color{#4c2967}Tell}$$ $${\color{#58376f}The}$$ $${\color{#3d1a57}Truth}$$
 ㅤ</br>
 </p>
 
@@ -30,19 +30,19 @@ $${\color{#3d1a57} ༘}$$ $${\color{#4c2967}₊}$$ $${\color{#58376f}✩}$$ $${\
  </p>
 <p align="center">
   $${\color{#3d1a57}I}$$ $${\color{#4c2967}Got,}$$ $${\color{#58376f}A}$$ $${\color{#644778}Crush}$$
-  $${\color{#745c85}On}$$ $${\color{#3d1a57}You,}$$ ㅤ $$${\color{#4c2967}Do}$$ $${\color{#58376f}You◝}$$ ㅤ</br>
+  $${\color{#745c85}On}$$ $${\color{#3d1a57}You,}$$ ㅤ $${\color{#4c2967}Do}$$ $${\color{#58376f}You◝}$$ ㅤ</br>
 ㅤ $${\color{#3d1a57}◟Crush}$$ $${\color{#4c2967}On}$$ $${\color{#58376f}Me}$$ $${\color{#3d1a57}Too?}$$ 
 ㅤ</br>
 </p>
 
 <p align="center">
-! /.\ !
+$${\color{#58376f}᭝ ᨳ₊˚ଓ ՟}$$
 </p>
 
  </p>
 <p align="center">
   $${\color{#3d1a57}Song}$$ $${\color{#4c2967}Lyric}$$ $${\color{#58376f}Credits}$$ $${\color{#644778}To}$$ ㅤ 
-  $${\color{#745c85}2hollis}$$ $${\color{#3d1a57}With}$$ $${\color{#4c2967}Crush}$$7</br>  
+  $${\color{#745c85}2hollis}$$ $${\color{#3d1a57}With}$$ $${\color{#4c2967}Crush}$$</br>  
 ㅤ</br>
 </p>
 
