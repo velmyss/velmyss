@@ -1,6 +1,7 @@
   <p align="center">
   <img width="300" height="420" src="https://media.discordapp.net/attachments/1512875001731350663/1520664749589794927/Untitled64_20260628013840.png?ex=6a4204e8&is=6a40b368&hm=d39835902551e9bd12ed223ea59cfd5476003c123519f3ba92bdc54f4d3641da&=&format=webp&quality=lossless&width=433&height=609">
 </p>
+
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -13,7 +14,7 @@ $${\color{#4c2967}----------˗ˏˋ ꒰ ꩜ ꒱ ˎˊ----------˗‎}$$
 ㅤ</br>
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=Spiders&color=3d1a57&style=plastic&abbreviated=true&base=11600">
+  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=Opps&color=3d1a57&style=plastic&abbreviated=true&base=11600">
 </p>
 
  </p>
